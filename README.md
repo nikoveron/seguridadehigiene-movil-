@@ -42,8 +42,6 @@ La aplicación valida la información y la envía a la base de datos central de 
 Historial de Informes:
 Los trabajadores también pueden acceder a un historial de los informes previamente enviados desde la aplicación móvil.
 Pueden consultar los detalles de los informes anteriores y realizar un seguimiento del progreso de las acciones correctivas tomadas.
----------------------------------------------------------------------------------------------------------------------------
-Vista Móvil para Inspectores:
 
 Inicio de Sesión Inspector:
 Los inspectores inician sesión en la aplicación móvil utilizando sus credenciales específicas como inspectores.
